@@ -1,2 +1,2 @@
 ## LICENSES
-> dependencies with different copying rules then root project
+> dependencies with different copying rules than root project
