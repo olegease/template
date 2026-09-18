@@ -1,4 +1,4 @@
 .PHONY: usage
-# recipes
+# commands
 usage:
-	cat Makefile.usage.txt
+	@cat Makefile.usage.txt
